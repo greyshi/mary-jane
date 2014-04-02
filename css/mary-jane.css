@@ -219,18 +219,19 @@ i.scroll:hover {
 }
 /* Responsive */
 
-@media (max-width: 768px) {
-	
-  .header {
-	background: url(../img/bg.jpg) no-repeat center center scroll; 
-  }
 
-  .callout {
-	background: url(../img/callout.jpg) no-repeat center center scroll; 
-  }
+h3 span { 
+   color: #f7f3f8; 
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.4);
+   line-height: 44px; 
+   padding: 8px; 
+}
 
-  .map {
-	height: 75%;
-  }
-
+h1 span { 
+   color: #f7f3f8; 
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.4);
+   line-height: 91px; 
+   padding: 8px; 
 }
