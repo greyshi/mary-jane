@@ -293,3 +293,31 @@ h1 span {
    line-height: 91px; 
    padding: 8px; 
 }
+
+@media (max-width: 768px) {
+  
+  .header {
+  background: url(../img/bg.jpg) no-repeat center center scroll; 
+  }
+
+  .footer {
+  background: url(../img/bg.jpg) no-repeat center center scroll; 
+  }
+
+  #addiction {
+  background: url(../img/addiction.jpg) no-repeat center center scroll; 
+  }
+
+  #behavior {
+  background: url(../img/behavior.jpg) no-repeat center center scroll; 
+  }
+
+  #fatality {
+  background: url(../img/fatality.jpg) no-repeat center center scroll; 
+  }
+
+  #conclusion {
+  background: url(../img/conclusion.jpg) no-repeat center center scroll; 
+  }
+
+}
