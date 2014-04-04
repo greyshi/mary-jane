@@ -301,6 +301,11 @@ ul
     list-style-type: none;
 }
 
+.twitter-share-button {
+      position:relative;
+      top:6px;
+}
+
 @media (max-width: 568px) {
   .header {
   background: url(../img/bg.jpg) no-repeat center center scroll; 
