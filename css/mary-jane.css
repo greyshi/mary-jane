@@ -224,7 +224,6 @@ i.service-icon {
 /* Call to Action */
 
 .call-to-action {
-  color: #009724;
   background: #ffffff;
   padding: 50px 0;
 }
@@ -246,7 +245,7 @@ footer {
   color: #fff; 
   padding: 70px 0;
   display: table;
-  height: 35%;
+  height: 60%;
   width: 100%;
   position: relative;
   background: url(../img/bg.jpg) no-repeat center center fixed; 
